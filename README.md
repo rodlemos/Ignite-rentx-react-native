@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple steps.
 * Project API
 
   ```sh
-  git clone https://github.com/rodlemos/ignite-gofinances.git
+  git clone https://github.com/rodlemos/rentx-api.git
   ```
 
 ### Installation
