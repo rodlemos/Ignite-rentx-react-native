@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "rentx",
+    "icon": "./assets/icon.png",
     "slug": "rentx",
     "version": "1.0.0",
     "assetBundlePatterns": [
